@@ -1,1 +1,5 @@
-﻿{ version: "1.0", url: "http://www.growlforwindows.com/gfw/d.ashx?f=growlnotify.zip", bin: ["growlnotify.com", "growlnotify.exe"] }
+{ 
+  "version": "1.0", 
+  "url": "http://www.growlforwindows.com/gfw/d.ashx?f=growlnotify.zip", 
+  "bin": ["growlnotify.com", "growlnotify.exe"] 
+}
