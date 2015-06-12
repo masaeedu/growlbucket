@@ -1,5 +1,5 @@
 { 
   "version": "1.0", 
-  "url": "http://www.growlforwindows.com/gfw/d.ashx?f=growlnotify.zip", 
+  "url": "https://github.com/masaeedu/scoop-growlnotify/raw/master/growlnotify.zip", 
   "bin": ["growlnotify.com", "growlnotify.exe"] 
 }
